@@ -1,2 +1,2 @@
-# Dark-mode
-Manipulando a D.O.M. com JavaScript
+# Dark-mode / Light Mode
+Manipulando a D.O.M com JavaScript
